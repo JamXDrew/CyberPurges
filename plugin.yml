@@ -1,0 +1,12 @@
+name: CyberPurges
+main: MrJamesAndrewMC\Purges\Main
+version: 1.0.0
+api: [1.4.0,2.0.0]
+description:
+
+commands:
+    purge:
+        permission: cc.op
+        description: "Start Purge"
+        useage: "/purge"
+  
